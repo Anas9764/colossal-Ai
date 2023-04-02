@@ -7,6 +7,7 @@ import Navbar from "./components/Navbar/Navbar";
 import Services from "./components/AI service/Services";
 import Earth from "./components/Earth-section/Earth";
 import Form  from "./components/form/form";
+import Footer from "./components/footer/footer";
 // import Form from './components/form/form';
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
       <Services />
       <Earth />
       <Form />
+      <Footer />
     </>
   );
 }

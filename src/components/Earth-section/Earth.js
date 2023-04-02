@@ -1,6 +1,6 @@
 import React from 'react'
 import "./Earth.css"
-import earthBg from '../../assets/videos/earth.mp4'
+import earthBg from '../../assets/videos/Earth.mp4'
 
 function Earth() {
   return (
